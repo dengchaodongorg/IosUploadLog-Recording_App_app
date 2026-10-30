@@ -1,0 +1,17 @@
+Command line invocation:
+    /Applications/Xcode_27.1.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/Recording_App_app/Recording_App_app/Recording_App_app.xcworkspace
+
+Information about workspace "Recording_App_app":
+    Schemes:
+        DCDongSubscriptionKit
+        LAME-xcframework
+        PKHUD
+        PKHUD-PKHUDResources
+        Pods-Recording_App_app
+        Pods-Recording_App_app_Test
+        Recording_App_app
+        Recording_App_app_Test
+        UMAPM
+        UMCommon
+        UMDevice
+
